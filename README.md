@@ -1,7 +1,7 @@
 
 # Proposed 3D Reconstruction — **ComfyUI Workflow**
 
-This repository provides the **exact ComfyUI workflow** used in our experiments, plus environment/version pinning tips and external weight links ([Google Drive](https://drive.google.com/file/d/1-SwdkAyppx0Jp8Z0ZT_CLF7cIYA_wWFN/view?usp=drive_link)).
+This repository provides the **exact ComfyUI workflow** used in our experiments, plus external weight links, THUMAN 3.0 find-tuned SV3D ([Google Drive](https://drive.google.com/file/d/1-SwdkAyppx0Jp8Z0ZT_CLF7cIYA_wWFN/view?usp=drive_link)).
 
 ## Contents
 - `comfyui/workflows/Final.json` (SHA256: `98a7430d9e71f73f04a39d3a31fb99016fe29e181e3bb273aedbb04361bdcb54`)
