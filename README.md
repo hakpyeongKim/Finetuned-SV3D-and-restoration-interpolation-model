@@ -8,6 +8,10 @@ This repository provides the **exact ComfyUI workflow** used in our experiments,
 - `env/` environment info (ComfyUI commit, custom nodes list)
 - `weights/README.md` (Google Drive link + SHA256 placeholder)
 
+## Pure python Implementation
+- A modular Pytorch that replicates the ComfyUi graph with deterministic configs and CLI
+  Code: https://drive.google.com/file/d/10f5jPRN_zg4mHtWIXOpPIz5_lwOzJamC/view?usp=drive_link
+
 ## Usage
 1. Install **ComfyUI** and required custom nodes (pin exact commits in `env/`).
 2. Copy `comfyui/workflows/Final.json` into your ComfyUI `workflows/` folder.
