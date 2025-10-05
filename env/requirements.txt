@@ -1,0 +1,9 @@
+
+opencv-python
+numpy
+pillow
+tqdm
+scikit-image
+matplotlib
+open_clip_torch
+gdown

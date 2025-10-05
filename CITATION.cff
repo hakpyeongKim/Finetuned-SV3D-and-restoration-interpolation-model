@@ -1,0 +1,9 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Proposed 3D Reconstruction — ComfyUI Workflow Release"
+authors:
+  - family-names: Kim
+    given-names: Hakpyeong
+date-released: 2025-10-05
+version: "0.1.0"
